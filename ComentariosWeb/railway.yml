@@ -1,0 +1,7 @@
+name: ComentariosWeb
+type: java
+buid: 
+commands: 
+- ./mvnw clean install
+outputDirectory: target 
+start: java -jar target/your-spring-boot-app.jar
